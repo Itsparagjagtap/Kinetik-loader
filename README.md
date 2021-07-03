@@ -1,2 +1,2 @@
 # Kinetik-loader
-sd
+Kinetic-Loader is build by using HTML, CSS, JS
